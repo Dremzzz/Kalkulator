@@ -1,5 +1,5 @@
-# Kalkulator
+# Calculator
 
-Zwykły kalkulator
+Simple calculator
 
-![image](https://github.com/Dremzzz/Kalkulator/assets/160274050/8cc94d1b-c710-4a52-a39d-71901090ece6)
+https://dremzzz.github.io/Kalkulator/
