@@ -11,6 +11,13 @@ html {
     font-style: normal;
 }
 
+.hidden {
+    border: rgba(0, 0,0,0) !important;
+    background-color: rgba(0, 0,0,0) !important;
+    color:  rgba(0, 0,0,0) !important;
+    cursor:unset !important;
+}
+
 body {
     display: flex;
     background-color: rgb(212, 212, 212);
